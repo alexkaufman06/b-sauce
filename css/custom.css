@@ -1,7 +1,11 @@
-/*.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-  height: 250px;
-}*/
-
 .portfolio-fix {
   height: 250px;
+}
+
+.navbar {
+  background: rgba(0,0,0,0.3);
+}
+
+header {
+  height: 100vh;
 }
